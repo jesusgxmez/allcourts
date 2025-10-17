@@ -8,16 +8,22 @@ AllCourts is a modern and intuitive web app for booking and managing sports cour
 ✨ Features
 
 🏟 Browse Courts – Check availability in real-time
+
 📅 Book & Cancel – Reserve your favorite slots instantly
+
 ✅ Track Reservations – See available vs reserved times at a glance
+
 📱 Responsive Design – Perfect on desktop & mobile
+
 🔒 Secure Backend – Node.js + Express.js API for smooth operations
 
 
 💻 Tech Stack
 
 Frontend: React, modern JavaScript, CSS/SCSS
+
 Backend: Node.js, Express.js REST API
+
 Database: MongoDB / PostgreSQL
 
 
@@ -25,5 +31,7 @@ Database: MongoDB / PostgreSQL
 
 Whether you’re a player looking for available slots or a facility manager organizing multiple courts, AllCourts makes scheduling:
 ✅ Fast
+
 ✅ Reliable
+
 ✅ Fun & Stress-Free
