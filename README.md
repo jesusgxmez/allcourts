@@ -1,8 +1,5 @@
 # AllCourts
 <img width="1024" height="1024" alt="ChatGPT Image 17 oct 2025, 13_01_25" src="https://github.com/user-attachments/assets/15305ec0-5946-4c7e-ab6c-36b5ed796dcc" />
-
-# AllCourts
-<img width="1024" height="1024" alt="ChatGPT Image 17 oct 2025, 13_01_25" src="https://github.com/user-attachments/assets/15305ec0-5946-4c7e-ab6c-36b5ed796dcc" />
 # 🎾 AllCourts
 
 **AllCourts** is a **modern and intuitive web app** for booking and managing sports court reservations. Inspired by **Flow Playtomic**, it combines **React frontend** + **Node.js backend** for a fast, reliable, and enjoyable user experience.  
