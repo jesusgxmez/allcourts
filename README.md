@@ -5,6 +5,8 @@
 
 AllCourts is a modern and intuitive web app for booking and managing sports court reservations. Inspired by Flow Playtomic, it combines React frontend + Node.js backend for a fast, reliable, and enjoyable user experience.
 
+
+
 ✨ Features
 
 🏟 Browse Courts – Check availability in real-time
@@ -18,6 +20,7 @@ AllCourts is a modern and intuitive web app for booking and managing sports cour
 🔒 Secure Backend – Node.js + Express.js API for smooth operations
 
 
+
 💻 Tech Stack
 
 Frontend: React, modern JavaScript, CSS/SCSS
@@ -27,9 +30,11 @@ Backend: Node.js, Express.js REST API
 Database: MongoDB / PostgreSQL
 
 
+
 🚀 Why AllCourts?
 
 Whether you’re a player looking for available slots or a facility manager organizing multiple courts, AllCourts makes scheduling:
+
 ✅ Fast
 
 ✅ Reliable
